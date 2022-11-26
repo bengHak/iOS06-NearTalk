@@ -5,6 +5,7 @@
 //  Created by Preston Kim on 2022/11/17.
 //
 
+import DomainModule
 import Foundation
 
 final class DefaultUserProfileRepository: UserProfileRepository {

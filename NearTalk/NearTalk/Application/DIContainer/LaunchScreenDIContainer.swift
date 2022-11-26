@@ -5,6 +5,7 @@
 //  Created by 고병학 on 2022/11/13.
 //
 
+import DomainModule
 import Swinject
 import UIKit
 

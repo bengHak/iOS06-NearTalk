@@ -7,6 +7,7 @@
 
 import Foundation
 
+import DomainModule
 import RxRelay
 import RxSwift
 

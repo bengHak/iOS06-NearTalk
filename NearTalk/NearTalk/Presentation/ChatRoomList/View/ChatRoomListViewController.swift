@@ -5,6 +5,7 @@
 //  Created by yw22 on 2022/11/11.
 //
 
+import DomainModule
 import RxCocoa
 import RxSwift
 import SnapKit

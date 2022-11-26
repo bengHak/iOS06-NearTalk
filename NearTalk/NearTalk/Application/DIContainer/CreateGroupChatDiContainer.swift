@@ -5,6 +5,7 @@
 //  Created by 김영욱 on 2022/11/23.
 //
 
+import DomainModule
 import UIKit
 
 final class CreateGroupChatDiContainer {

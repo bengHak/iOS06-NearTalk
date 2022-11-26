@@ -5,6 +5,7 @@
 //  Created by Preston Kim on 2022/11/21.
 //
 
+import DomainModule
 import RxSwift
 
 final class DefaultAuthRepository: AuthRepository {

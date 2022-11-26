@@ -5,6 +5,7 @@
 //  Created by 고병학 on 2022/11/23.
 //
 
+import DomainModule
 import Foundation
 import RxSwift
 

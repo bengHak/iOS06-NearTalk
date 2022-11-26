@@ -1,4 +1,5 @@
 import AuthenticationServices
+import DomainModule
 import RxCocoa
 import RxGesture
 import RxSwift

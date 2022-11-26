@@ -5,6 +5,7 @@
 //  Created by 김영욱 on 2022/11/14.
 //
 
+import DomainModule
 import SnapKit
 import Then
 import UIKit

@@ -5,6 +5,7 @@
 //  Created by dong eun shin on 2022/11/22.
 //
 
+import DomainModule
 import UIKit
 
 final class ProfileDetailDIContainer {

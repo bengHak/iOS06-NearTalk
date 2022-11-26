@@ -5,13 +5,12 @@
 //  Created by 김영욱 on 2022/11/15.
 //
 
+import DomainModule
 import UIKit
 
 final class ChatRoomListDIContainer {
     
     // MARK: - Dependencies
-    
-    
     
     // MARK: - Persistent Storage
 

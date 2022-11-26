@@ -7,6 +7,7 @@
 
 import UIKit
 
+import DomainModule
 import RxCocoa
 import RxSwift
 

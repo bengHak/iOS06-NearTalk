@@ -5,6 +5,7 @@
 //  Created by Preston Kim on 2022/11/15.
 //
 
+import DomainModule
 import Foundation
 import RxRelay
 import RxSwift

@@ -5,6 +5,7 @@
 //  Created by 고병학 on 2022/11/24.
 //
 
+import DomainModule
 import FirebaseMessaging
 import Foundation
 import RxSwift

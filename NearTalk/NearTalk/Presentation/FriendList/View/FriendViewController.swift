@@ -4,6 +4,8 @@
 //
 //  Created by 김영욱 on 2022/11/15.
 //
+
+import DomainModule
 import RxCocoa
 import RxSwift
 import SnapKit
